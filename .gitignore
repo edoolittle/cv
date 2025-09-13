@@ -9,5 +9,6 @@ output/
 *.out
 *.pdf
 auto/
+*.synctex
 *.synctex.gz
 .DS_Store
